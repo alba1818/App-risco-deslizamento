@@ -66,6 +66,10 @@ risco-deslizamento/
 3. Execute o app:
    npx expo start --clear
 
+🎥 Demonstração
+Confira o vídeo demonstrativo com as principais funcionalidades:
+https://www.youtube.com/watch?v=XyQyqgk6QrU
+
 
 🧑‍💻 Integrantes
 Gabriel Alba — RM: 98212
